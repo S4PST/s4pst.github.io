@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="banner">
+    <!-- <img class="w-100" src="https://via.placeholder.com/1000x350"> -->
+    <div class="banner-text w-100">
+      <div class="wrapper">
+        <p class="display-5 m-0">S4PST</p>
+        <h2 class="display-4 w-70">Sustainability for Programming Systems and Tools</h2>
+        <p>U.S. Department of Energy (DOE)
+          Office of Advanced Scientific Computing Research (ASCR)</p>
+        <a href="{{ site.baseurl }}/about"> 
+          <button class="btn btn-outline">Learn More</button>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrapper">
+    {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    <div class="mission card mb-4">
+        <div class="card-header">
+            <p>Our Mission</p>
+        </div>
+        <div class="card-body">
+            <p>Our vision is to define a work plan to make the access to HPC for science more cost-effective by lowering technical, economical and social barriers to enable sustainability. The proposed community effort will deliver a comprehensive view and study that prioritizes the needs of DOE mission. We propose a coordinated software ecosystem, S4PST, as an investment opportunity to make our programming systems and tools more accessible as we enter an inflection point in HPC. The current uncoordinated, corrective and vendor-driven programming languages, models and ecosystem approach is only expected to become more expensive down the pipeline as more heterogeneous components are deployed in the future landscape of HPC. The current monolithic model is impacted by the end of Moore Law, energy and economic bounds, and the wealth of data-driven AI workflows. Democratizing access through a sustainable ecosystem will allow the growth of the HPC community to include traditional underrepresented groups while maximizing the nation strategic computing investments for science.</p> 
+        </div>
+    </div>
+
+    <div class="row mt-5 mb-5">
+        <div class="col-lg-8">
+            {% include recent_blog_posts.html %}
+        </div>
+        <div class="col-lg">
+            {% include recent_announcements.html %}
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row mt-5 mb-5">
+        <div class="col-lg">
+            {% include recent_events.html %}
+        </div>
+    </div>
+
+    
+  </div> <!-- end wrapper-->
+</div>

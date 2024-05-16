@@ -1,0 +1,204 @@
+---
+---
+$primary:       {{site.primary-color}};
+$secondary:     {{site.secondary-color}};
+$success:       {{site.success-color}};
+$info:          {{site.info-color}};
+$warning:       {{site.warning-color}};
+$danger:        {{site.danger-color}};
+$light:         {{site.light-color}};
+$dark:          {{site.dark-color}};
+
+@import "{{ site.theme }}";
+@import 'bootstrap/bootstrap';
+
+//** 
+//** MINIMA OVERWRITES
+//**
+.page-content {
+    padding: 0px;
+}
+article {
+    padding: 25px 0px;
+}
+
+//** 
+//* GENERAL 
+//**
+.wrapper {
+    max-width: 1100px;
+}
+.highlight-block {
+    background-color: {{site.light-color}}; //#e6e6e6
+    padding: 25px;
+}
+
+//** 
+//* TYPOGRAPHY 
+//**
+h3 {
+    color: {{site.primary-color}};
+}
+a {
+    color: {{site.primary-color}};
+    text-decoration: underline;
+}
+a:visited {
+    color: {{site.link-col}}; // This may need to be changed
+}
+a:hover {
+    color: {{site.primary-color}};
+    text-decoration: underline;
+}
+a.highlighted {
+    color: {{site.link-col}};
+    text-decoration: underline;
+}
+p.display-5 {
+    font-size: 1.5rem;
+}
+.text-underline {
+    text-decoration: underline !important;
+}
+a.post-link,
+a.announcement-link,
+button a {
+    color: {{site.dark-color}};
+    text-decoration: none;
+}
+//** 
+//* BUTTONS 
+//**
+button.btn.btn-outline {
+    color: {{site.primary-color}}!important;
+    border-color: {{site.primary-color}}!important;
+    border: 2px solid {{site.primary-color}}!important;
+    background-color: transparent!important;
+}
+button.btn.btn-outline a,
+button.btn.btn-outline a:visited {
+    color: {{site.primary-color}}!important;
+}
+
+//** 
+//* SOCIAL BAR 
+//**
+.social-bar {
+    background-color: {{site.dark-color}};
+    min-height: 30px;
+}
+.social-bar .social-media-list{
+    float: right;
+}
+.social-bar .social-media-list li {
+    display: inline-block;
+}
+.social-bar .svg-icon {
+    width: 25px;
+    height: 25px;
+}
+.social-bar .username {
+    display: none;
+}
+
+//** 
+//* HEADER 
+//**
+.site-nav {
+    line-height: initial;
+}
+a.nav-link {
+    color: black;
+    padding: 1rem!important;
+    text-decoration: none;
+}
+a.nav-link:hover {
+    color: {{site.primary-color}};
+}
+li.nav-link.dropdown-toggle {
+    padding: 1rem !important;
+}
+.dropdown-toggle:hover .dropdown-menu {
+    display: block!important;
+}
+li.nav-link {
+    position: relative!important;
+}
+//** 
+//* FOOTER 
+//**
+.site-footer {
+    background-color: {{site.dark-color}};
+    color: white;
+}
+.site-footer img {
+    max-height: 40px!important;
+    margin: 20px auto;
+    display: block;
+}
+img.nnsa-logo {
+    max-height: 75px!important;
+}
+//** 
+//* BANNER 
+//**
+.banner {
+    position: relative;
+    // background: url(./img/hpcwdr-banner.png), {{site.dark-color}};
+    background-repeat: no-repeat;
+    background-size: auto 500px;
+    background-position: right;
+    color: white;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
+.banner-text {
+    padding: 120px;
+}
+
+//** 
+//* PAGINATION 
+//**
+ul.pagination {
+    margin-left: 0px;
+}
+
+//** 
+//* HOME PAGE
+//**
+.mission.card {
+    margin-top: -50px;
+    background-color: #f3f3f3;
+    border: 1px solid #e4e4e4;
+    border-radius: 0;
+    padding: 40px 50px;
+}
+.mission .card-header {
+    border: none;
+    background-color: transparent;
+    font-size: 24px;
+    padding: 0px;
+}
+.mission .card-body {
+    padding: 0px;
+}
+
+//** 
+//* GRIDS
+//**
+.w-70 {
+    width: 70% !important;
+}
+
+// Mobile styling
+@media only screen and (max-width: 991px) {
+    .w-70 {
+        width: 100% !important;
+    }
+
+    .banner-text {
+        padding: 100px 70px;
+        background-color: #000000b0;
+    }
+}
+  

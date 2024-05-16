@@ -18,21 +18,78 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: S4PST
+email: cranfillkd@ornl.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://github.com/S4PST/s4pst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Socials
 twitter_username: jekyllrb
 github_username:  jekyll
+facebook_username:  jekyll
+twitter_username:  jekyll
+youtube_username:  jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  # - jekyll-paginate
+
+# CSS
+sass:
+  sass_dir: assets/css
+
+# Pagination
+paginate: 5
+paginate_path: /blog/page:num/
+
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path
+  announcements:
+    output: true
+    permalink: /:collection/:path
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+favicon: "/assets/img/avatar-icon.png"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About:
+    - About: "about"
+  Community: "community"
+  Blog: "blog"
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+primary-color: "#14638f"
+secondary-color: "#159957"
+success-color: "#28a745"
+info-color: "#17a2b8"
+warning-color: "#ffc107"
+danger-color: "#dc3545"
+light-color: "#F5F5F5"
+dark-color: "#000a0d"
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#ffffff"
+navbar-children-col: "#500e3d"
+page-col: "#FFFFFF"
+link-col: "#9a7600"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
