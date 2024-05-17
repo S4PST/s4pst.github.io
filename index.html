@@ -28,14 +28,23 @@ layout: default
         <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
 
-    <div class="mission card mb-4">
+  <div class="row mt-5 mb-5">
+    <div class="col-lg">
+      <h3>Latest News from S4PST</h3>
+    </div>
+    <div class="col-lg">
+      {% include recent_blog_posts.html %}
+    </div>
+  </div>
+
+    <!-- <div class="mission card mb-4">
         <div class="card-header">
             <p>Our Mission</p>
         </div>
         <div class="card-body">
             <p>Our vision is to define a work plan to make the access to HPC for science more cost-effective by lowering technical, economical and social barriers to enable sustainability. The proposed community effort will deliver a comprehensive view and study that prioritizes the needs of DOE mission. We propose a coordinated software ecosystem, S4PST, as an investment opportunity to make our programming systems and tools more accessible as we enter an inflection point in HPC. The current uncoordinated, corrective and vendor-driven programming languages, models and ecosystem approach is only expected to become more expensive down the pipeline as more heterogeneous components are deployed in the future landscape of HPC. The current monolithic model is impacted by the end of Moore Law, energy and economic bounds, and the wealth of data-driven AI workflows. Democratizing access through a sustainable ecosystem will allow the growth of the HPC community to include traditional underrepresented groups while maximizing the nation strategic computing investments for science.</p> 
         </div>
-    </div>
+    </div> -->
 
     <div class="row mt-5 mb-5">
         <div class="col-lg-8">
