@@ -9,7 +9,7 @@
     {%- endif -%}
     <div class="row">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {%- for post in posts limit:3 -%}
+    {%- for post in posts | sort: 'date' | reverse | limit:3 -%}
 
     <!-- Only show items that are not expired (aka archived)-->
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}

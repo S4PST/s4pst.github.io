@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "May Newsletter"
-date:   2024-01-26 11:54:05 -0400
+date:   2024-05-20 11:54:05 -0400
 author: Kita Cranfill
 categories: jekyll update
 expires: 2025-10-26
