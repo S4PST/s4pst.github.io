@@ -6,14 +6,14 @@
 <div class="row post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% assign events = site.events | sort: 'date' | reversed %}
-    {%- for event in events -%} <!-- Having issues with limit:3 and expired dates-->
+    {%- for event in events limit:2-%} <!-- Having issues with limit:3 and expired dates-->
 
     <!-- Only show items that are not expired (aka archived)-->
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
 
     {% if expires > nowunix %}
-    <div class="col-lg-4 mb-4">
+    <div class="col-lg-6 mb-4">
         <!-- <span class="post-meta">{{ event.date | date: date_format }}</span> -->
         <h4>
             <a class="post-link" href="{{ event.url | relative_url }}">

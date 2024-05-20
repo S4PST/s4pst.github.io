@@ -1,6 +1,6 @@
 <h3>Announcements</h3>
 
-{% for item in site.data.announcements limit:3 %}
+{% for item in site.data.announcements limit:1 %}
 
 <!-- Only show items that are not expired (aka archived)-->
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}

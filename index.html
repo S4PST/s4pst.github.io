@@ -29,9 +29,9 @@ layout: default
     {%- endif -%}
 
   <div class="row mt-5 mb-5">
-    <div class="col-lg">
+    <!-- <div class="col-lg">
       <h3>Latest News from S4PST</h3>
-    </div>
+    </div> -->
     <div class="col-lg">
       {% include recent_blog_posts.html %}
     </div>
@@ -47,22 +47,13 @@ layout: default
     </div> -->
 
     <div class="row mt-5 mb-5">
-        <div class="col-lg-8">
-            {% include recent_blog_posts.html %}
+        <div class="col-lg-8 event-list">
+          {% include recent_events.html %}
         </div>
-        <div class="col-lg">
+        <div class="col-lg announcement-list">
             {% include recent_announcements.html %}
         </div>
     </div>
 
-    <hr>
-
-    <div class="row mt-5 mb-5">
-        <div class="col-lg">
-            {% include recent_events.html %}
-        </div>
-    </div>
-
-    
   </div> <!-- end wrapper-->
 </div>

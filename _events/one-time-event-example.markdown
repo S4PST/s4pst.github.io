@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "Lorem ipsum dolor sit amet"
+title:  "Event #1"
 location: Zoom
 event_url: http://s4pst.github.io
 date: 2022-10-25 15:00:00 -0400 # event_date
 category: "webinar" # webinar or community
-expires: 2022-10-25
+expires: 2025-10-25
 repeated: false
 ---
 

@@ -67,7 +67,7 @@ navbar-links:
   About:
     - About: "about"
   Community: "community"
-  Blog: "blog"
+  Newsletter: "blog"
 
 # --- Background colour/image options --- #
 

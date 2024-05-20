@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "Lorem ipsum dolor sit amet"
+title:  "Event #2 is repeated"
 location: Zoom # event location
 event_url: http://s4pst.github.io # optional
 event_date: "Reoccurring: Last Friday of every month at 12:00 pm ET"
 category: "webinar" # webinar or community
-expires: 2023-02-26
+expires: 2025-02-26
 repeated: true
 ---
 

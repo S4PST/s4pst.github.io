@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blog Archive
-description: Please find archived blogs below. 
-permalink: /blog_archive/
+title: Newsletter Archive
+description: Please find archived newsletters below. 
+permalink: /newsletter_archive/
 ---
 
    <div class="mb-4">
@@ -16,7 +16,7 @@ permalink: /blog_archive/
          {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
          {% capture expires %}{{ post.expires | date: '%s'}}{% endcapture %}
 
-         {% if expires > nowunix %}
+         {% if expires < nowunix %}
             <li>
                <a class="" href="{{ post.url | relative_url }}">
                   {{ post.title | escape }}

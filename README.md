@@ -1,28 +1,18 @@
-# HPC Workforce Development and Retention
+# Sustainability for Programming Systems and Tools
 
 ## What is this?
 
-This is a repository that contains the files for the official HPC Workforce Development and Retention group website hosted at https://hpc-wdr.com.
+This is a repository that contains the files for the official Sustainability for Programming Systems and Tools group website hosted at https:/.s4pst.org.
 The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub. 
 
 ## How do I contribute?
 
-We encourage the community to contribute to the content of the website. However, content must be in scope as outlined on the 
-<a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/site-overview/" target="_blank">Site Overview</a>, must follow the site <a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/codeofconduct/" target="_blank">Code of Conduct</a>, and must be approved by the HPC-WDR Editorial Board. 
-
-## Contributing for Those Who Are Not Familiar with the Git Workflow
-
-If you are not familiar with the git workflow you may submit your content using the <a href="https://forms.gle/BNChXzpxkJjF4EFWA">HPC-WDR Google Form.</a> Someone from the HPC-WDR editorial board will be in contact with you soon. 
-
-## Contributing for Those Who Are Familiar with the Git Workflow
+Fork the repository, make your proposed changes, test locally (see below), and then create a pull request against `main`. For more details about opening pull requests and issues, see our [Contributing Guide](.github/CONTRIBUTING.md).
 
 
-If you are familiar with the gitworkflow,  fork the repository, make your proposed changes, test locally (see below), and then create a pull request against `main`. For more details about opening pull requests and issues, see our [Contributing Guide](.github/CONTRIBUTING.md).
+### 1. How do I add a newsletter (blog post)?
 
-
-### 1. How do I add a blog post?
-
-You can add a blog post to the site by adding a markdown file in the [_posts](_posts)
+You can add a newsletter to the site by adding a markdown file in the [_posts](_posts)
 folder, organized by year. Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`

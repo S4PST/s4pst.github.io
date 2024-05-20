@@ -1,4 +1,4 @@
-<h3>Latest Blog Posts</h3>
+<h3>Latest News</h3>
 
 <!-- reverse allows for newest to be shown first -->
 {% assign posts = site.posts | sort: 'date' | reverse %}
@@ -7,7 +7,7 @@
     {%- if page.list_title -%}
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <div class="row">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts limit:3 -%}
 
@@ -16,20 +16,21 @@
     {% capture expires %}{{ post.expires | date: '%s'}}{% endcapture %}
 
     {% if expires > nowunix %}
-    <li>
+    <div class="col-lg-4">
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h4>
             <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
             </a>
         </h4>
-        {{ post.content | strip_html | truncatewords: 15 }}
-    </li>
+        {{ post.content | strip_html | truncatewords: 40 }}
+    </div>
     {% endif %}
     {%- endfor -%}
-    </ul>
+    </div>
 {%- endif -%}
 
+<br>
 <a href="{{ site.baseurl }}/blog"> 
     <button class="btn btn-outline">View All Posts</button>
 </a>
