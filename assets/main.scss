@@ -44,14 +44,14 @@ a {
     text-decoration: underline;
 }
 a:visited {
-    color: {{site.link-col}}; // This may need to be changed
+    color: {{site.secondary-color}}; // This may need to be changed
 }
 a:hover {
     color: {{site.primary-color}};
     text-decoration: underline;
 }
 a.highlighted {
-    color: {{site.link-col}};
+    color: {{site.secondary-color}};
     text-decoration: underline;
 }
 p.display-5 {
@@ -206,7 +206,8 @@ ul.pagination {
 .event-list {
     padding: 20px 30px;
     border-radius: 20px 0 0 20px;
-    background: linear-gradient(226deg, rgb(20 99 143 / 15%) 34%, rgb(246 248 250) 100%);
+    background-color: #f5f7fa;
+    // background: linear-gradient(226deg, rgb(20 99 143 / 15%) 34%, rgb(246 248 250) 100%);
 }
 .announcement-list {
     background-color: whitesmoke;
