@@ -1,8 +1,8 @@
-# Sustainability for Programming Systems and Tools
+# Stewardship for Programming Systems and Tools
 
 ## What is this?
 
-This is a repository that contains the files for the official Sustainability for Programming Systems and Tools group website hosted at https:/.s4pst.org.
+This is a repository that contains the files for the official Stewardship for Programming Systems and Tools project website hosted at https:/.s4pst.org.
 The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub. 
 
 ## How do I contribute?
