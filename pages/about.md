@@ -24,25 +24,26 @@ computing (HPC) software portfolio of next-generation programming systems and to
 
 Funded Critical Products:
 
-- *OpenMP/OpenACC*  Lead: [Sunita Chandrasekaran](https://crpl.cis.udel.edu/sunita/), University of Delaware; [Swaroop Pophale](https://www.ornl.gov/staff-profile/swaroop-s-pophale), [Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee), Oak Ridge National Laboratory
-- [*LLVM*](https://github.com/llvm-doe-org) Leads: [Johannes Doerfert, Lawrence Livermore National Laboratory](https://jdoerfert.github.io/), [Joel E. Denny](https://www.ornl.gov/staff-profile/joel-e-denny) Oak Ridge National Laboratory
-- [*Kokkos*](https://kokkos.org/) Leads: Christian Trott, Sandia National Laboratory; [Damien T Lebrun-Grandie](https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie) Oak Ridge National Laboratory
-- *Fortran* Lead: [Damian Rouson](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/damian-rouson/), Lawrence Berkeley National Laboratory
-- [*Legion*](https://legion.stanford.edu/) Leads: [Alex Aiken](https://theory.stanford.edu/~aiken/) SLAC National Accelerator Laboratory; [Pat MacCormack](https://laro.lanl.gov/esploro/profile/patrick_mccormick/overview) Los Alamos National Laboratory
-- [*OpenMPI*](https://www.open-mpi.org/) Lead: [Thomas Naughton](https://www.ornl.gov/staff-profile/thomas-j-naughton-iii) Oak Ridge National Laboratory
-- [*MPICH*](https://www.mpich.org/) Leads: [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo), [Hui Zhou](https://www.anl.gov/profile/hui-zhou), [Rajeev Thakur](https://www.anl.gov/profile/rajeev-thakur), Argonne National Laboratory
-- [*UPC++/GASNet*](https://gasnet.lbl.gov/) Lead: [Paul H. Hargrove](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/paul-hargrove/) Lawrence Berkeley National Laboratory
+- **[OpenMP](https://www.openmp.org/)/[OpenACC](https://www.openacc.org/)**  Leads: [Sunita Chandrasekaran](https://crpl.cis.udel.edu/sunita/), University of Delaware; [Swaroop Pophale](https://www.ornl.gov/staff-profile/swaroop-s-pophale), [Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee), Oak Ridge National Laboratory
+- [**LLVM**](https://llvm.org/) Leads: [Johannes Doerfert](https://people.llnl.gov/doerfert1)Lawrence Livermore National Laboratory; [Joel E. Denny](https://www.ornl.gov/staff-profile/joel-e-denny) Oak Ridge National Laboratory
+- [**Kokkos**](https://kokkos.org/) Leads: Christian Trott, Sandia National Laboratory; [Damien T Lebrun-Grandie](https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie) Oak Ridge National Laboratory
+- [**Fortran**](https://fortran-lang.org/) Lead: [Damian Rouson](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/damian-rouson/), Lawrence Berkeley National Laboratory
+- [**Legion**](https://legion.stanford.edu/) Leads: [Alex Aiken](https://theory.stanford.edu/~aiken/) SLAC National Accelerator Laboratory; [Pat MacCormack](https://laro.lanl.gov/esploro/profile/patrick_mccormick/overview) Los Alamos National Laboratory
+- [**OpenMPI**](https://www.open-mpi.org/) Lead: [Thomas Naughton](https://www.ornl.gov/staff-profile/thomas-j-naughton-iii) Oak Ridge National Laboratory
+- [**MPICH**](https://www.mpich.org/) Leads: [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo), [Hui Zhou](https://www.anl.gov/profile/hui-zhou), [Rajeev Thakur](https://www.anl.gov/profile/rajeev-thakur), Argonne National Laboratory
+- [**UPC++/GASNet**](https://gasnet.lbl.gov/) Lead: [Paul H. Hargrove](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/paul-hargrove/) Lawrence Berkeley National Laboratory
 
 Funded Incubation Projects:
 
 - *Automatic Differentation* Lead: [Michael Schanen](https://www.anl.gov/profile/michel-schanen) Argonne National Laboratory
 - *Kokkos AI Integration* Lead: [Sivasankaran Rajamanickam](https://www.sandia.gov/people/staff/sivasankaran-rajamanickam/) Sandia National Laboratory
 - *LLMs for HPC* Lead: [Pedro Valero-Lara](https://www.ornl.gov/staff-profile/pedro-valero-lara) Oak Ridge National Laboratory
-- [Julia for HPC and AI](https://juliahpc.github.io/) Leads: [Alan Edelman](https://math.mit.edu/~edelman/), Julian Samaroo, Rabab Alomairy, Valentin Churavy, Massachusetts Institute of Technology, [Johannes Blaschke](https://www.nersc.gov/about/nersc-staff/data-science-engagement-group/johannes-blaschke/) Lawrence Berkeley National Laboratory, NERSC
+- *High-level HPC and AI programming* Leads: [Alan Edelman](https://math.mit.edu/~edelman/), Julian Samaroo, Rabab Alomairy, Valentin Churavy, Massachusetts Institute of Technology, [Johannes Blaschke](https://www.nersc.gov/about/nersc-staff/data-science-engagement-group/johannes-blaschke/) Lawrence Berkeley National Laboratory, NERSC
 
 Unfunded Collaborations:
 
-- [HIP]
+- [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau)
+- [SYCL](https://www.khronos.org/sycl/) Lead: [Thomas Applencourt](https://www.alcf.anl.gov/about/people/thomas-applencourt), Argonne National Laboratory
 
 ### Contact information
 
