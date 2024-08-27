@@ -5,11 +5,11 @@ description:
 permalink: /about/
 ---
 
-S4PST is part of the software stewardship organizations (SSOs) selected by ASCR to
-advance the next generation of scientific software technologies (NGSST). We are members of [CASS](https://cass.community/): the Consortium for the Advancement of Scientific Software.
+S4PST is part of the software stewardship organizations (SSOs) selected by the US Department of Energy Advanced Scientific Computing Research (ASCR) to
+advance the next generation of scientific software technologies (NGSST). We are also members of [CASS](https://cass.community/): the Consortium for the Advancement of Scientific Software.
 
 ### Vision:
-*"A portfolio of ever evolving Programming Systems and Tools (PST) that will be accessible, stewarded and advanced for the DOE and the broader scientific community."*
+*"A portfolio of ever evolving Programming Systems and Tools that will be accessible, stewarded and advanced for the US Department of Energy and the broader scientific community."*
 
 ### Mission: 
 *"To deliver a balanced portfolio for the next generation of advanced programming systems and tools ecosystem via a robust and diverse community of stewards for accessible science driven by AI to fulfill DOE’s mission of national security and prosperity."*
@@ -42,7 +42,7 @@ Funded Incubation Projects:
 
 Unfunded Collaborations:
 
-- [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau)
+- [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau), Argonne National Laboratory
 - [SYCL](https://www.khronos.org/sycl/) Lead: [Thomas Applencourt](https://www.alcf.anl.gov/about/people/thomas-applencourt), Argonne National Laboratory
 
 ### Contact information
