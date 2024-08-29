@@ -25,10 +25,5 @@ We welcome pull requests from everyone. To submit a pull request:
 
 To test your changes locally, you can run Jekyll on your machine. You will need to have Ruby installed. You can follow the instructions on the [Jekyll website](https://jekyllrb.com/docs/installation/) to install Jekyll.
 
-## Additional Resources
-
-- [Project Documentation](link-to-documentation)
-- [Issue Tracker](link-to-issue-tracker)
-- [Code of Conduct](link-to-code-of-conduct)
 
 Thank you for your contributions!

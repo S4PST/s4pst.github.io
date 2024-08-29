@@ -14,7 +14,7 @@ We summarize the latest news and updates from the S4PST community from this past
 1. Christian Munley, Aaron Jarmusch, and Sunita Chandrasekaran. *"LLM4VV: Developing LLM-driven testsuite for compiler validation."* Future Generation Computer Systems (2024) [doi:10.1016/j.future.2024.05.034](https://doi.org/10.1016/j.future.2024.05.034).
 
 2. William Godoy, Pedro Valero-Lara, Keita Teranishi, Prasana Balaprakash, Jeffrey S Vetter. *"Large Language Model evaluation for High-Performance
-Computing Software Development"* Concurrency and Computations: Practice and Experience (2024) [doi:10.1002/cpe.7000](https://doi.org/10.1002/cpe.7000).
+Computing Software Development"* Concurrency and Computations: Practice and Experience (2024) [doi:10.1002/cpe.8269](https://doi.org/10.1002/cpe.8269).
 
 ### Major Software Improvements
 

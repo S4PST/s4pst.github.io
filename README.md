@@ -6,7 +6,7 @@ This is a repository that contains the files for the official Stewardship for Pr
 
 ## How do I contribute?
 
-Fork the repository, make your proposed changes, test locally (see below), and then create a pull request against `main`. For more details about opening pull requests, issues and adding to our Newsletters, see our [Contributing Guide](.github/Contribute.md).
+Fork the repository, make your proposed changes, test locally (see below), and then create a pull request against `main`. For more details about opening pull requests, issues and adding to our Newsletters, see our [Contributing Guide](https://github.com/S4PST/s4pst.github.io/blob/main/Contribute.md).
 
 
 ### How do I add to a newsletter (blog post)?
