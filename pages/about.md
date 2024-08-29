@@ -45,6 +45,8 @@ Unfunded Collaborations:
 - [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau), Argonne National Laboratory
 - [SYCL](https://www.khronos.org/sycl/) Lead: [Thomas Applencourt](https://www.alcf.anl.gov/about/people/thomas-applencourt), Argonne National Laboratory
 
+In addition, S4PST is a proud sponsor of the [CASS community](https://cass.community/) and the HPC Workforce Development and Retention [HPC-WDR](https://hpc-workforce-development-and-retention.github.io/hpc-wdr/) initiative. We advocate for the development of a diverse and inclusive workforce in HPC through mentoring, training, and community building.
+
 ### Contact information
 
 [Keita Teranishi](https://www.ornl.gov/staff-profile/keita-teranishi) Principal Investigator, [Oak Ridge National Laboratory](https://www.ornl.gov/), USA. teranishik@ornl.gov
