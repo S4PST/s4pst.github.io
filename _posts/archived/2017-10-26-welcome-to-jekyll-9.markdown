@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! (Archived)"
-date:   2017-10-26 11:54:05 -0400
-author: Kita Cranfill
-categories: jekyll update
+title:  "First S4PST Phase-I Workshop"
+date:   2023-10-26 11:54:05 -0400
+author: William F Godoy
+categories: event
 expires: 2027-10-01
 ---
 
