@@ -1,34 +1,17 @@
 ---
 layout: post
-title:  "First S4PST Phase-I Workshop"
+title:  "The First S4PST Phase-I Workshop"
 date:   2023-10-26 11:54:05 -0400
 author: William F Godoy
 categories: event
-expires: 2027-10-01
+expires: 2024-10-26
 ---
 
-Placeholder for the first archived post on the site. This post is archived.
+The first S4PST Phase-I Workshop was held for two days in May 11-12, 2023 at the [Innovative Computing Laboratory](https://icl.utk.edu/) at the University of Tenneessee, Knoxville.
 
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The event gather 30 participants from various institutions and organizations. The workshop was centered around future models for sustaining the investment in software and tools for the HPC community. In particular, the legacy of the Exascale Computing Project (ECP), 2016-2023. Participants included active members of ECP projects, as well as representatives from the broader HPC community (e.g. vendors, academia) as well two seeds projects funded by the software sustainability initiative: [STEP]() and [SWAS](). People had the chance to exchange ideas, experiences, and lessons learned from ECP and other software projects to set a vision for the near-future. The full report became available in August 2023 as we prepared for phase-II of the project, and is available [here](https://ornl.github.io/events/2023-06-20-S4PST-files/S4PST-May-Workshop-Report.pdf).
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+## Acknowledgements
+This work is supported by the S4PST Software Sustainability Seed awarded by the US Department of Energy Office of Science (SC) Advanced Scientific Computing Research under SC’s Funding Opportunity Announcement
+DE-FOA-0002844. We would like to thanks Hartwig Anzt, Director of the Innovative Computing Laboratory at the College of Engineering of the University of Tennessee for hosting the workshop event. We want to thank the list of attendees and the community for their participation and contributions to the workshop.
