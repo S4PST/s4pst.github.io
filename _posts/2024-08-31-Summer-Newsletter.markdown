@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "August Newsletter"
+title:  "Summer Newsletter"
 date:   2024-08-31 11:54:05 -0400
-author: William Godoy
-categories: jekyll update
+author: William F Godoy
+categories: newsletter
 expires: 2025-08-31
 ---
 
