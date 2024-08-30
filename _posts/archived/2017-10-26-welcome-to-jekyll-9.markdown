@@ -3,7 +3,7 @@ layout: post
 title:  "The First S4PST Phase-I Workshop"
 date:   2023-10-26 11:54:05 -0400
 author: William F Godoy
-categories: event
+categories: jekyll update
 expires: 2024-10-26
 ---
 
