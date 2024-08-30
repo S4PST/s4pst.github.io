@@ -7,7 +7,7 @@ categories: newsletter
 expires: 2025-08-31
 ---
 
-We summarize the latest news and updates from the S4PST community from this past summer. The work reported is partially funded by S4PST in collaboration with other stakeholders of the software. Highlights include new publications, major software improvements, events related to software, and awards. 
+We summarize the latest news and updates from the S4PST community from this past summer, May-August 2024. The work reported is partially funded by S4PST in collaboration with other stakeholders and showcases the impact of the activities around the software portfolio. Summer highlights include new publications, major software improvements, events related to software, and awards. 
 
 ### Publications
 
