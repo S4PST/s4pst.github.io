@@ -3,7 +3,7 @@ layout: post
 title:  "SC24 Special Newsletter"
 date:   2024-11-01 11:54:05 -0400
 author: William Godoy
-categories: jekyll update
+categories: newsletter
 expires: 2025-11-01
 ---
 
