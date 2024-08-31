@@ -8,10 +8,10 @@ permalink: /about/
 S4PST is part of the software stewardship organizations (SSOs) selected by the US Department of Energy Advanced Scientific Computing Research (ASCR) to
 advance the next generation of scientific software technologies (NGSST). We are also members of [CASS](https://cass.community/): the Consortium for the Advancement of Scientific Software.
 
-### Vision:
+### Vision
 *"A portfolio of ever evolving Programming Systems and Tools that will be accessible, stewarded and advanced for the US Department of Energy and the broader scientific community."*
 
-### Mission: 
+### Mission
 *"To deliver a balanced portfolio for the next generation of advanced programming systems and tools ecosystem via a robust and diverse community of stewards for accessible science driven by AI to fulfill DOE’s mission of national security and prosperity."*
 
 
@@ -25,7 +25,7 @@ computing (HPC) software portfolio of next-generation programming systems and to
 Funded Critical Products:
 
 - **[OpenMP](https://www.openmp.org/)/[OpenACC](https://www.openacc.org/)**  Leads: [Sunita Chandrasekaran](https://crpl.cis.udel.edu/sunita/), University of Delaware; [Swaroop Pophale](https://www.ornl.gov/staff-profile/swaroop-s-pophale), [Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee), Oak Ridge National Laboratory
-- [**LLVM**](https://llvm.org/) Leads: [Johannes Doerfert](https://people.llnl.gov/doerfert1)Lawrence Livermore National Laboratory; [Joel E. Denny](https://www.ornl.gov/staff-profile/joel-e-denny) Oak Ridge National Laboratory
+- [**LLVM**](https://llvm.org/) Leads: [Johannes Doerfert](https://people.llnl.gov/doerfert1) Lawrence Livermore National Laboratory; [Joel E. Denny](https://www.ornl.gov/staff-profile/joel-e-denny) Oak Ridge National Laboratory
 - [**Kokkos**](https://kokkos.org/) Leads: Christian Trott, Sandia National Laboratory; [Damien T Lebrun-Grandie](https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie) Oak Ridge National Laboratory
 - [**Fortran**](https://fortran-lang.org/) Lead: [Damian Rouson](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/damian-rouson/), Lawrence Berkeley National Laboratory
 - [**Legion**](https://legion.stanford.edu/) Leads: [Alex Aiken](https://theory.stanford.edu/~aiken/) SLAC National Accelerator Laboratory; [Pat MacCormack](https://laro.lanl.gov/esploro/profile/patrick_mccormick/overview) Los Alamos National Laboratory
@@ -35,7 +35,7 @@ Funded Critical Products:
 
 Funded Incubation Projects:
 
-- *Automatic Differentation* Lead: [Michael Schanen](https://www.anl.gov/profile/michel-schanen) Argonne National Laboratory
+- *Differentiable Programming* Lead: [Michael Schanen](https://www.anl.gov/profile/michel-schanen) Argonne National Laboratory
 - *Kokkos AI Integration* Lead: [Sivasankaran Rajamanickam](https://www.sandia.gov/people/staff/sivasankaran-rajamanickam/) Sandia National Laboratory
 - *LLMs for HPC* Lead: [Pedro Valero-Lara](https://www.ornl.gov/staff-profile/pedro-valero-lara) Oak Ridge National Laboratory
 - *High-level HPC and AI programming* Leads: [Alan Edelman](https://math.mit.edu/~edelman/), Julian Samaroo, Rabab Alomairy, Valentin Churavy, Massachusetts Institute of Technology, [Johannes Blaschke](https://www.nersc.gov/about/nersc-staff/data-science-engagement-group/johannes-blaschke/) Lawrence Berkeley National Laboratory, NERSC
