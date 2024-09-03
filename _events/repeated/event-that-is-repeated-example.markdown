@@ -1,12 +1,11 @@
 ---
 layout: event
-title:  "Event #2 is repeated"
-location: Zoom # event location
-event_url: http://s4pst.github.io # optional
-event_date: "Reoccurring: Last Friday of every month at 12:00 pm ET"
-category: "webinar" # webinar or community
-expires: 2025-02-26
+title:  "S4PST Monthly Meeting"
+location: virtual # event location
+event_date: "Reoccurring: Third Monday of every month at 2:00 pm ET"
+category: "meeting" # webinar or community
+expires: 2025-12-31
 repeated: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The S4PST Monthly Meeting serves to inform the community about the latest updates and developments in the S4PST project. The meeting is open to project members and interested parties in programming systems and is held on the third Monday of every month at 2:00 pm ET. Please contact [Keita Teranishi](mailto: teranishik@ornl.gov) for more information.
