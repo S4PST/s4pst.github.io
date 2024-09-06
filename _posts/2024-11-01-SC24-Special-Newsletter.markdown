@@ -27,6 +27,7 @@ S4PST is proud to sponsor members to participate in activities at the premier [I
 1. [Towards Integrating LLMs in HPC Software Development]
 2. [Foundational Large Language Models for High-Performance Computing — Challenges and Opportunities]
 3. [Julia for HPC]
+4. [OpenACC]
 
 
 ### Service
