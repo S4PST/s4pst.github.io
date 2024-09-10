@@ -7,7 +7,8 @@ categories: newsletter
 expires: 2025-11-01
 ---
 
-S4PST is proud to sponsor members to participate in activities at the premier [IEEE/ACM SC24 Conference](https://sc24.supercomputing.org/) in November 17-22 in Atlanta, GA. We are excited to share our work and engage with the broader community. Please join us at the following events:
+S4PST is proud to sponsor members to participate in activities at the premier [IEEE/ACM SC24 Conference](https://sc24.supercomputing.org/) in November 17-22 in Atlanta, GA. The work and activities reported are partially funded by S4PST and in collaboration with other stakeholders to showcase the impact of the activities around the software portfolio.
+We are excited to share our work and engage with the broader community. Please join us at the following SC24 events:
 
 ### Tutorials
 
@@ -15,9 +16,16 @@ S4PST is proud to sponsor members to participate in activities at the premier [I
 
 ### Publications
 
+- "JACC: Leveraging HPC Meta-Programming and Performance Portability with the Just-in-Time and LLVM-based Julia Language" [WACCPD Workshop](https://waccpd.org/)
+
+- "ChatBLAS: The First AI-Generated and Portable BLAS Library" [AI4S Workshop](https://ai4s.github.io/)
+  
 
 ### Posters
 
+[Research and ACM SRC Posters](https://sc24.supercomputing.org/program/posters/)
+
+- "JACC: HPC Meta-Programming and Performance Portability Ecosystem for Julia Language" 
 
 ### Panels
 
