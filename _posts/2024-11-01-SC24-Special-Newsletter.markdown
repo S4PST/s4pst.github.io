@@ -32,10 +32,10 @@ We are excited to share our work and engage with the broader community. Please j
 
 ### Birds of a Feather
 
-1. [Towards Integrating LLMs in HPC Software Development]
-2. [Foundational Large Language Models for High-Performance Computing — Challenges and Opportunities]
-3. [Julia for HPC]
-4. [OpenACC]
+1. [Towards Integrating LLMs in HPC Software Development](https://sc24.conference-program.com/presentation/?id=bof229&sess=sess662)
+2. [Foundational Large Language Models for High-Performance Computing — Challenges and Opportunities](https://sc24.conference-program.com/presentation/?id=bof122&sess=sess671)
+3. [Julia for HPC](https://sc24.conference-program.com/presentation/?id=bof136&sess=sess648)
+4. [OpenACC Users Forum](https://sc24.conference-program.com/presentation/?id=bof190&sess=sess607)
 
 
 ### Service
