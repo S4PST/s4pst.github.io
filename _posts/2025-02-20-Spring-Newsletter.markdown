@@ -13,7 +13,7 @@ We summarize the latest news and updates from the S4PST community from this past
 
 1. 
 2. 
-3.
+
 
 ### Major Software Improvements
 
