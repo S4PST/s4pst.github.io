@@ -45,7 +45,7 @@ Unfunded Collaborations:
 - [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau), Argonne National Laboratory
 - [SYCL](https://www.khronos.org/sycl/) Lead: [Thomas Applencourt](https://www.alcf.anl.gov/about/people/thomas-applencourt), Argonne National Laboratory
 
-In addition, S4PST is a proud sponsor of the [CASS community](https://cass.community/) and the HPC Workforce Development and Retention [HPC-WDR](https://hpc-workforce-development-and-retention.github.io/hpc-wdr/) initiative. We advocate for the development of a diverse and inclusive workforce in HPC through mentoring, training, and community building.
+In addition, S4PST is a sponsor of the [CASS community](https://cass.community/) and the HPC Workforce Development and Retention [HPC-WDR](https://hpc-workforce-development-and-retention.github.io/hpc-wdr/) initiative. We advocate for the development of the future workforce in HPC through mentoring, training, and community building. Our members are also active members in engaging with the broader community through standards, conferences, and workshops.
 
 ### Contact information
 
@@ -55,3 +55,4 @@ In addition, S4PST is a proud sponsor of the [CASS community](https://cass.commu
 
 [William F. Godoy](https://www.ornl.gov/staff-profile/william-f-godoy) co-Investigator, [Oak Ridge National Laboratory](https://www.ornl.gov/), USA. godoywf@ornl.gov
 
+Website created by [Kita D Cranfill](https://www.ornl.gov/staff-profile/kita-d-cranfill), [Oak Ridge National Laboratory](https://www.ornl.gov/), USA, cranfillkd@ornl.gov
