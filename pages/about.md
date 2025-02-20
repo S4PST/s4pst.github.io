@@ -28,7 +28,7 @@ Funded Critical Products:
 - [**LLVM**](https://llvm.org/) Leads: [Johannes Doerfert](https://people.llnl.gov/doerfert1) Lawrence Livermore National Laboratory; [Joel E. Denny](https://www.ornl.gov/staff-profile/joel-e-denny) Oak Ridge National Laboratory
 - [**Kokkos**](https://kokkos.org/) Leads: Christian Trott, Sandia National Laboratory; [Damien T Lebrun-Grandie](https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie) Oak Ridge National Laboratory
 - [**Fortran**](https://fortran-lang.org/) Lead: [Damian Rouson](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/damian-rouson/), Lawrence Berkeley National Laboratory
-- [**Legion**](https://legion.stanford.edu/) Leads: [Alex Aiken](https://theory.stanford.edu/~aiken/) SLAC National Accelerator Laboratory; [Pat MacCormack](https://laro.lanl.gov/esploro/profile/patrick_mccormick/overview) Los Alamos National Laboratory
+- [**Legion**](https://legion.stanford.edu/) Leads: [Alex Aiken](https://theory.stanford.edu/~aiken/) SLAC National Accelerator Laboratory; [Pat McCormick](https://laro.lanl.gov/esploro/profile/patrick_mccormick/overview) Los Alamos National Laboratory
 - [**OpenMPI**](https://www.open-mpi.org/) Lead: [Thomas Naughton](https://www.ornl.gov/staff-profile/thomas-j-naughton-iii) Oak Ridge National Laboratory
 - [**MPICH**](https://www.mpich.org/) Leads: [Yanfei Guo](https://www.anl.gov/profile/yanfei-guo), [Hui Zhou](https://www.anl.gov/profile/hui-zhou), [Rajeev Thakur](https://www.anl.gov/profile/rajeev-thakur), Argonne National Laboratory
 - [**UPC++/GASNet**](https://gasnet.lbl.gov/) Lead: [Paul H. Hargrove](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/paul-hargrove/) Lawrence Berkeley National Laboratory
