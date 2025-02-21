@@ -5,20 +5,20 @@ description:
 permalink: /about/
 ---
 
-S4PST is part of the software stewardship organizations (SSOs) selected by the US Department of Energy Advanced Scientific Computing Research (ASCR) to
+S4PST is part of the software stewardship organizations (SSOs) selected by the US Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) to
 advance the next generation of scientific software technologies (NGSST). We are also members of [CASS](https://cass.community/): the Consortium for the Advancement of Scientific Software.
 
 ### Vision
 *"A portfolio of ever evolving Programming Systems and Tools that will be accessible, stewarded and advanced for the US Department of Energy and the broader scientific community."*
 
 ### Mission
-*"To deliver a balanced portfolio for the next generation of advanced programming systems and tools ecosystem via a robust and diverse community of stewards for accessible science driven by AI to fulfill DOE’s mission of national security and prosperity."*
+*"To deliver an impactful portfolio for the next generation of advanced programming systems and tools ecosystem stewarded by a highly-specialized community of experts for accessible science driven by AI to fulfill DOE’s mission of national security and prosperity."*
 
 
 ### Goals
 
 S4PST’s goal is to enable the stewardship and advancement of an evolving high-performance
-computing (HPC) software portfolio of next-generation programming systems and tools in the critical path of the US Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) scientific discovery mission. We aim to deliver and explore robust, trustworthy capabilities through a thriving community of highly-specialized individuals – **the stewards** – invested in addressing the challenges of programmability ion HPC and the convergence of AI (e.g. Large Language Models - LLMs) and heterogeneous computing (e.g. GPUs and AI accelerated hardware) for science. We collaborate across different parts of the DOE to maximize the impact of our portfolio. We also engage with the broader community to ensure that our efforts are aligned with the scientific needs at large.
+computing (HPC) software portfolio of next-generation programming systems and tools in the critical path of DOE's ASCR scientific discovery mission. We aim to deliver and explore robust, trustworthy capabilities through a thriving community of highly-specialized individuals – **the stewards** – invested in addressing the challenges of programmability ion HPC and the convergence of AI (e.g. Large Language Models - LLMs) and heterogeneous computing (e.g. GPUs and AI accelerated hardware) for science. We collaborate across different parts of the DOE to maximize the impact of our portfolio. We also engage with the broader community to ensure that our efforts are aligned with the scientific needs at large.
 
 ### Members
 
@@ -45,7 +45,7 @@ Unfunded Collaborations:
 - [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) Lead: [Brice Videau](https://www.anl.gov/profile/brice-videau), Argonne National Laboratory
 - [SYCL](https://www.khronos.org/sycl/) Lead: [Thomas Applencourt](https://www.alcf.anl.gov/about/people/thomas-applencourt), Argonne National Laboratory
 
-In addition, S4PST is a sponsor of the [CASS community](https://cass.community/) and the HPC Workforce Development and Retention [HPC-WDR](https://hpc-workforce-development-and-retention.github.io/hpc-wdr/) initiative. We advocate for the development of the future workforce in HPC through mentoring, training, and community building. Our members are also active members in engaging with the broader community through standards, conferences, and workshops.
+In addition, S4PST is a sponsor of the [CASS community](https://cass.community/) and the HPC Workforce Development and Retention [HPC-WDR](https://hpc-workforce-development-and-retention.github.io/hpc-wdr/) initiative. We advocate for the development of the future workforce in HPC through mentoring, training, and community building. Our members are also active in engaging with the broader scientific community through standards, conferences, and workshops.
 
 ### Contact information
 
