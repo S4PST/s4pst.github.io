@@ -4,7 +4,7 @@ authors: Damien Lebrun-Grandie
 title: "Kokkos Core Achieves OpenSSF Best Practices \"Passing\" Badge!"
 date: "2025-05-12"
 tags: ["2025", "OpenSSF", "Kokkos"]
-expires: 2026-05-12
+expires: 2026-05-11
 categories: newsletter
 thumbnail: img/newsletter/kokkos_openssf_best_practices.png
 ---
