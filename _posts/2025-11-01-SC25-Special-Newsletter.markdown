@@ -9,7 +9,7 @@ expires: 2026-11-01
 
 S4PST is proud to co-sponsor members to participate in activities at the premier [IEEE/ACM SC25 Conference](https://sc25.supercomputing.org/) in November 16-21 in St Louis, MO. The work and activities reported are partially funded by S4PST and in collaboration with other stakeholders to showcase the impact of the activities around the software portfolio.
 
-As members of the Consortium of the Advacement of Scientific Software (CASS) we contributed to the curated list of 24 events including papers, posters, BoFs and tutorial participation co-sponsored by S4PST. The full list can be found in the CASS website [here]](https://cass.community/news/2025-11-16-sc25.html). 
+As members of the Consortium of the Advacement of Scientific Software (CASS) we contributed to the curated list of 24 events including papers, posters, BoFs and tutorial participation co-sponsored by S4PST. The full list can be found in the CASS website [here](https://cass.community/news/2025-11-16-sc25.html). 
 
 
 Highlights:
