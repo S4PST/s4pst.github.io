@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "S4PST 2024-2025 Report"
+date:   2026-01-22 11:54:05 -0400
+author: William Godoy
+categories: newsletter
+expires: 2027-01-21
+---
+
+We are pleased to announce the S4PST 2024-2025 Project Report, pdf version available [here](https://www.dropbox.com/scl/fi/umg5d9rm5d9do5sdcujr4/2026_01_15_S4PST_Mid_Report.pdf?rlkey=kqvk6p1qmkrdhoz6hs1m3xrne&st=jy115hrv&dl=0). 
+
+We invite readers in the community to be informed of S4PST activities that highlights and elevate the team of specialized stewards of the HPC portfolio of programming systems and tools funded by the US Department of Energy (DOE), Office of Science, Advanced Scientific Research Computing
+(ASCR) as part of the Next Generation Scientific Software Technologies (NGSST) Program. We aim to continue evolving the portfolio accordingly with DOE science needs in the era of AI and the newly announced [Genesis Mission](https://genesis.energy.gov/).

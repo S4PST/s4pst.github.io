@@ -4,7 +4,7 @@ title:  "S4PST Monthly Meeting"
 location: virtual # event location
 event_date: "Reoccurring: Third Monday of every month at 2:00 pm ET"
 category: "meeting" # webinar or community
-expires: 2025-12-31
+expires: 2026-12-31
 repeated: true
 ---
 
