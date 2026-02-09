@@ -7,7 +7,7 @@ categories: newsletter
 expires: 2027-01-21
 ---
 
-We are pleased to announce the S4PST 2024-2025 Project Report, see the [pdf version](https://www.dropbox.com/scl/fi/lh3desetpfe6d9012f17r/2026_01_15_S4PST_Mid_Report.pdf?rlkey=3qxfxhfoy3l21iczzg9cxb3rs&st=698tf4bo&dl=0).
+We are pleased to announce the S4PST 2024-2025 Project Report available in the [DOE OSTI site](https://www.osti.gov/biblio/3016977).
 
 We invite readers in the community to be informed of S4PST activities that highlights and elevate the team of specialized stewards of the HPC portfolio of programming systems and tools funded by the US Department of Energy (DOE), Office of Science, Advanced Scientific Research Computing
 (ASCR) as part of the Next Generation Scientific Software Technologies (NGSST) program. We aim to continue evolving the portfolio accordingly with DOE science needs in the era of AI and the newly announced [Genesis Mission](https://genesis.energy.gov/).
